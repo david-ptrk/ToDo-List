@@ -31,5 +31,4 @@ A simple to-do list web application where users can create, edit, and delete tas
 
 ---
 
-**Author:** Daud Anjum  
-**Repository:** [GitHub](https://github.com/david-ptrk/todolist)
+**Author:** Daud Anjum
